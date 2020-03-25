@@ -1,2 +1,2 @@
 # try_git
-This is a learning repo for GIT
+This is a learning repo for GIT! Testing environment
